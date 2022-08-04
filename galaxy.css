@@ -1,0 +1,621 @@
+
+
+
+.header{
+    background: #f9f5ef;
+    display: flex;
+    width: 100%;
+    height: 162px;
+    
+}
+body{
+    scrollbar-width: 2px;
+    margin: 0;
+    font-family: DrupalPrimaryTypefaceFont, Arial, Helvetica Neue, Helvetica, sans-serif;;
+}
+.logo{
+    display: flex;
+    width: 10%;
+    margin-right: 130px;
+}
+.img1{
+    width: 210px;
+    height: 155px;
+    margin-left: 20px;
+    float: left;
+}
+.middle{
+   
+    display: flex;
+    
+    
+}
+.top{
+    padding-left: 41px;
+    width: 31%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    
+}
+.choc{
+    cursor: pointer;
+    color: #502c1c;
+    list-style: none;
+    font-weight: 790;
+    text-decoration: none;
+    margin-left: 62px;
+    margin-top: 70px;
+    font-size: 18px;
+}
+.choc:hover{
+    color: #E02466;
+    
+}
+.down-arrow{
+    color: #E02466;
+    list-style: none;
+    font-weight: 100;
+    
+    margin-left: 5px;
+    margin-top: 70px;
+    font-size: 19px;
+}
+.where,.where1,.where2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #502c1c;
+    list-style: none;
+    text-decoration: none;
+    font-weight: 800;
+    margin-left: -2px;
+    margin-top: 21px;
+    font-size: 12px;
+    
+    width: 28%;
+}
+.where:hover{
+   color: #E02466;
+}
+.where1:hover{
+    color: #E02466;
+ }
+.where2:hover{
+    color: #E02466;
+    margin-left: 0px;
+}
+.bar{
+    color: #502c1c;
+    list-style: none;
+    font-weight: 100;
+    margin-left: -1px;
+    margin-top: -7px;
+    font-size: 35px;
+    padding-right: 6px;
+
+}
+.search{
+    margin-left: 18px;
+    width: 25px;
+    height: 25px;
+    margin-top: 17px;
+    
+}
+.img{
+    width: 100%;
+    height: 500px;
+}
+.write{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    background: url("search.jpg");
+    width: 100%;
+    height: 430px;
+    background-size: cover;
+    font-family: "Times New Roman", Times, serif;
+}
+.smooth{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    width: 100%;
+    height: 120px;
+    color: black;
+    margin-top: -22px
+}
+.write1{
+    font-size: 66px;
+    font-weight: 700;
+    font-family: "Dancing Script";
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom:0px;
+    }
+.h3-font{
+    font-size: 20px;
+    margin-left: -145px;
+}
+.photo{
+    background:url(https://www.galaxychocolate.co.uk/cdn-cgi/image/width=1440,height=650,f=auto,quality=90/sites/g/files/fnmzdf211/files/2021-10/RF%20200GBP%20-%20GettyImages-962374022%20%281%29.jpg);
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+}
+.wite2{
+    color: #fff;
+    font-size: 15px;
+    margin-top: 0;
+    padding-top: 56px;
+    margin-left: 625px;
+}
+.write2,.write3{
+    color: #fff;
+    font-size: 58px;
+    margin-left: 262px;
+    font-family: 'Dancing Script', cursive;
+    
+}
+.content3,.content4{
+    color: #fff;
+    font-size: 23px;
+    font-weight: 100;
+    margin-top: 37px;
+    margin-left: 3px;
+    text-align: center;
+}
+button{
+    
+    background-color: #e02466;
+    border: none;
+    color: white;
+    padding: 13px 23px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 800;
+    margin-left: 617px;
+    margin-top: 35px;
+    
+}
+button:hover{
+    background-color: white;
+    color: #E02466;
+}
+.smooth1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    width: 100%;
+    height: 120px;
+    color: black;
+    margin-top: -22px
+}
+.h4-font{
+    font-size: 16px;
+    margin-left: -145px;
+    font-weight: 100;
+}
+u{
+    text-decoration-color:red
+}
+.productf{
+    font-size: 15px;
+    font-weight: 100px;
+    margin-top: 85px;
+    margin-left: 51px;
+    color: white;
+
+}
+.mean2{
+    display: flex;
+    width: 100%;
+    height: 600px;
+    background-color: #502c1c;
+}
+.mean2-1{
+    
+    width: 50%;
+    height: 100%;
+}
+.mean2-2{
+    width: 50%;
+    height: 100%;
+}
+.mean2-h{
+    font-weight: bold;
+    font-size: 60px;
+    margin-top: 41px;
+    margin-left: 72px;
+    color: #fff;
+}
+.productfs{
+    margin-top: 10px ;
+}
+.button2,.button3{
+    
+    background-color: #e02466;
+    border: none;
+    color: white;
+    padding: 16px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 800;
+    margin-left: 100px;
+    margin-top: 21px;  
+}
+.collections{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color:#f9f5ef;
+    width: 100%;
+    height: 827px;
+    position: relative;
+    margin-top: -22px
+}
+.collention-sub{
+    width:100%;
+    height: 200px;
+    
+}
+
+.coll,.coll2{
+    color: #502c1c;
+    margin-top: 63px;
+    font-size: 62px;
+    font-weight: 600;
+    font-family: 'Dancing Script', cursive;
+}
+.img3{
+    
+    margin-top: -138px;
+}
+.fourrow{
+   display: flex;
+   
+   
+
+}
+.photo1{
+    margin-top: 40px;
+    margin-left: 35px;
+    width: 300px;
+    height:90%;
+}
+.frrow{
+    display: flex;
+}
+.text1{
+    margin-top: 40px;
+    margin-left: 35px;
+    width: 300px;
+    height:90%;
+    color: #502c1c;
+    font-weight: 750;
+    font-size: 23px;
+    font-style: poppins;
+}
+.btton{
+    display: flex;
+    
+}
+.button3{
+    margin-top: 13px;
+    margin-left: 185px;
+    
+}
+.button1{
+    margin-top: 13px;
+    margin-left: 121px;
+}
+
+html, body {
+    max-width: 100%;
+    
+}
+.photosec{
+    background:url(Galaxy-about-header-16x9_0\ \(1\).jpg);
+    width: 100%;
+    height: 550px;
+    background-size: cover;
+}
+.write3{
+    margin-left: 480px;
+}
+.img4{
+    width: 8%;
+    margin-top: 3px;
+    margin-left: 634px;
+
+}
+.content4{
+    margin-top: 20px;
+}
+.coll2{
+    margin-top: 10px;
+}
+.blend{
+    
+    width: 50%;
+    height: 500px;
+    align-items: center;
+}
+.blend2{
+    width: 50%;
+    height: 500px;
+    align-items: center;
+}
+.text2{
+    margin-left: -1px;
+    color: #502c1c;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.para1{
+    margin-top: 10px;
+    margin-left: 10px;
+    color: #502c1c;
+    font-size: 18px;
+}
+.button2{
+    background-color: #e02466;
+    border: none;
+    color: white;
+    padding: 15px 13px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 800;
+    margin-left: 10px;
+}
+.img5{
+    width: 70%;
+    height: 250px;
+}
+.sub{
+    display: flex;
+
+}
+.coll3{
+    color: #502c1c;
+    font-size: 62px;
+    font-weight: 400;
+    font-family: 'Dancing Script', cursive;
+}
+.collections2{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        background-color:#f9f5ef;
+        width: 100%;
+        height: 900px;
+        position: relative;
+}
+.collention-sub2{
+    width:100%;
+    height: 400px;
+    
+}
+.black{
+    width: 1349px;
+    height: 578px;
+    position: absolute;
+    top: 690px;
+    background-color: rgba(0, 0, 0, 0.479);
+}
+
+.social{
+    margin-bottom: 0px;
+    display: flex;
+    align-items: center;
+    overflow-x: scroll;
+   width: 100%;
+   height: 300px;
+   background-color: #f9f5ef;
+
+}
+.icecream{
+    position: relative;
+}
+.icecreampic{
+   
+    width: 220px;
+    height: 220px;
+    border-radius: 15px;
+    margin-left: 30px;
+    
+}
+.hai{
+    position: absolute;
+    margin-top: 30px;
+    color: #502c1c;
+}
+.instalogo{
+    position: absolute; 
+    left: 38px; 
+    margin-top: 5px; 
+    width: 45px; 
+    height: 45px;
+}
+.time{
+    color: #fff;
+    position: absolute;
+    left: 150px;
+    margin-top: -213px;
+    font-size: 12px;
+    font-weight: 800; 
+}
+.gradient{
+    width: 220px;
+    height: 220px;
+    border-radius: 15px;
+    margin-left: 30px;
+    position: absolute;
+    top: 0px;
+    background: linear-gradient(to bottom, #030303 0%, #ffffff00 20%);
+}
+.last{
+    display: flex;
+width: 100%;
+height: 200px;
+background-color: #f9f5ef;
+}
+.logo-last{
+    width: 210px;
+    height: 155px;
+    margin-left: 20px;
+    float: left;
+}
+.last-add1{
+    margin-top: 57px;
+    margin-left: 150px;
+    font-size: 18px;
+    font-weight: 800;
+    color: #502c1c;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.last-add1:hover{
+    color: #E02466;
+}
+.last-add:hover{
+    color: #E02466;
+}
+.last-add{
+    margin-top: 57px;
+    margin-left: 66px;
+    font-size: 18px;
+    font-weight: 800;
+    color: #502c1c;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.footer-svg{
+    position: relative;
+    top: -39px;
+    
+}
+.footer-last{
+    display: flex;
+    margin-top: -46px;
+    width: 100%;
+    height: 452px;
+    background-color: #502c1c;
+}
+
+.footer-1{
+
+    width: 20%;
+    height: 200px;
+    background-color: #502c1c;
+}
+.footer-2{
+    display: flex;
+    padding-top: 10px;
+    width: 80%;
+    height: 200px;
+    background-color: #502c1c;
+}
+.default,.default2,.default3,.default4{
+    color: #fff;
+    margin-top: 29px;
+    font-weight: 300;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 285px;
+}
+.default2{
+    margin-left: 100px;
+}
+.default3{
+    margin-left: 40px;
+}
+hr{
+    position: relative;
+    bottom: 230px;
+    width: 1250px;
+}
+.default4{
+    margin-top: 35px;
+    margin-left: 290px;
+}
+.edit{
+    color: #fff;
+    margin-top: 29px;
+    font-weight: 800;
+    font-size: 16px;
+    margin-left: 82px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fb{
+    margin-left: 79px;
+}
+.inst{
+    margin-left: 20px;
+}
+.twitter{
+    margin-left: 20px;
+}
+.pint{
+    margin-left: 20px;
+}
+.finish{
+    background-color: #502c1c;
+    width: 50%;
+    height: 100px;
+    margin-top: -270px;
+}
+.finish-text{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: #fff;
+    margin-top: 58px;
+    margin-left: 50px;
+}
+.discover{
+    background-color: #502c1c;
+    border: solid 3px #fff;
+    color: white;
+    padding: 13px 23px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 800;
+    margin-left: 50px;
+    margin-top: 0px;
+}
+.finish-end{
+    background-color: aqua;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.finish{
+
+    
+    height: 100%;
+    background-color: #502c1c;
+}
+.end{
+    
+    bottom: 156px;
+    left: 438px;
+    width: 50%;
+    height: 100%;
+    background-color: #502c1c;;
+}
+.end-photo{
+    margin-left: 1150px;
+    width: 21%;
+    height: 20%;
+}
